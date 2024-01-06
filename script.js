@@ -4,7 +4,8 @@ const chatbox=document.querySelector(".chatbox");
 
 let userMessage;
 //const APT_KEY="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";
-const APT_KEY="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";
+//const APT_KEY="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";
+const APT_KEY="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";  //by ayushi 
 
 const createChatLi=(message,className)=>{
     // create a chat <li> element with passed message and className
